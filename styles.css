@@ -1,0 +1,22 @@
+
+*{
+    background: #d0d0d5;
+  }
+
+  h1, h3{
+    text-align: center;
+    height: 1rem;
+    font-family: helvetica;
+  }
+  
+  img{
+    display: block;
+    max-width: 100%;
+    padding-top: 0.8rem;
+    height: auto; 
+  }
+
+  figcaption {
+    text-align: left;
+  }
+  
